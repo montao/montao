@@ -12,7 +12,7 @@ Check my [montao.github.io](https://montao.github.io/) if there is anything more
  💬 Ask me about CI/CD and code pipelines  
  📫 How to reach me: email  
  😄 Pronouns: He/him  
- ⚡ Fun fact: My Kevin Bacon number is 3 but I don't have a Sabbath number  
+ ⚡ Fun fact: Kevin Bacon has little or nothing to do with my work but my Kevin Bacon number is 3  
 
 <!--
 
