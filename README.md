@@ -1,8 +1,8 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=montao)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montao&layout=compact)](https://github.com/montao/)
+<img src="https://github-readme-stats.vercel.app/api?username=montao&show_icons=true&count_private=true&theme=radical" alt="montao - GitHub Stats">&nbsp; &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montao&layout=compact&show_icons=true&count_private=true&theme=radical" alt="montao - GitHub Stats">
 
 Hello   
-There is the [Spooks-web](https://montao.github.io/spooks-web/) inspired by Spooks from Emacs.  
+Spooks via HTTP [Spooks-web](https://montao.github.io/spooks-web/)   
 Check my [montao.github.io](https://montao.github.io/) if there is anything more over there.  
 
  🔭 I’m currently working on build systems and CI/CD for various purposes  
