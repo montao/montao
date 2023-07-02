@@ -1,4 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=montao&show_icons=true&count_private=true&theme=radical" alt="montao - GitHub Stats">&nbsp; &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montao&layout=compact&show_icons=true&count_private=true&theme=radical" alt="montao - GitHub Stats">
 
 Hello   
